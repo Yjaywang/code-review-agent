@@ -1,0 +1,17 @@
+[project]
+name = "code-review-agent"
+version = "0.1.0"
+description = "AI-powered code review agent using Claude Agent SDK"
+requires-python = ">=3.11"
+dependencies = [
+    "claude-agent-sdk",
+    "PyGithub",
+    "python-dotenv",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
