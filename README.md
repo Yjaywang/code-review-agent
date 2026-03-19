@@ -105,6 +105,10 @@ Controlled via the `REVIEW_LANGUAGE` environment variable:
 
 ## Review Comment Examples
 
+## Performance
+<img width="947" height="672" alt="image" src="https://github.com/user-attachments/assets/e9edcfbb-f472-43eb-9481-ce3d9048499e" />
+<img width="948" height="634" alt="image" src="https://github.com/user-attachments/assets/b9281531-65c5-42e6-b7bc-833a8f87c65e" />
+
 ### Inline Comment
 ```
 🟡 **Medium Priority**
@@ -131,8 +135,3 @@ This PR adds two cron jobs for the QC site. An efficiency issue was found in the
 | 🟡 Medium | 1 |
 | 🔵 Low | 0 |
 ```
-
-
-## Performance
-<img width="947" height="672" alt="image" src="https://github.com/user-attachments/assets/e9edcfbb-f472-43eb-9481-ce3d9048499e" />
-<img width="948" height="634" alt="image" src="https://github.com/user-attachments/assets/b9281531-65c5-42e6-b7bc-833a8f87c65e" />
