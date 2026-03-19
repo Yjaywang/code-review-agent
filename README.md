@@ -11,6 +11,10 @@ An AI-powered code review tool built with the Claude Agent SDK, similar to Gemin
 - **Auto Issue Creation** — Automatically creates GitHub Issues for cross-cutting concerns spanning multiple files
 - **Multi-language Support** — Review language configurable via `REVIEW_LANGUAGE`, defaults to Traditional Chinese
 
+## Performance
+<img width="947" height="672" alt="image" src="https://github.com/user-attachments/assets/e9edcfbb-f472-43eb-9481-ce3d9048499e" />
+<img width="948" height="634" alt="image" src="https://github.com/user-attachments/assets/b9281531-65c5-42e6-b7bc-833a8f87c65e" />
+
 ## Architecture
 
 ```
@@ -129,9 +133,3 @@ This PR adds two cron jobs for the QC site. An efficiency issue was found in the
 | 🟡 Medium | 1 |
 | 🔵 Low | 0 |
 ```
-
-## Performance
-<img width="947" height="672" alt="image" src="https://github.com/user-attachments/assets/e9edcfbb-f472-43eb-9481-ce3d9048499e" />
-<img width="948" height="634" alt="image" src="https://github.com/user-attachments/assets/b9281531-65c5-42e6-b7bc-833a8f87c65e" />
-
-
